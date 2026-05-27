@@ -1,0 +1,10 @@
+﻿@model List<Student>
+<h1>Student Profile</h1>
+
+@foreach(var student in Model)
+{
+    <h3 style="display:inline">Name : @student.Name</h3>
+    <h3>Age : @student.Age</h3>
+    <h3>City : @student.City</h3>
+    <h3>Course : @student.Course</h3><br /><br />
+}
