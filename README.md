@@ -91,9 +91,9 @@ This project was built as part of a 30-Day ASP.NET Core MVC Learning Journey to 
 
 Dynamic student profiles displayed using ASP.NET Core MVC.<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5a32a40d-0b83-49e4-8cab-26c270e2de03" />
 
-
----
-
 # Created By
 
 Dhiraj Padhiyar
+
+## Project Status
+Completed ✅
